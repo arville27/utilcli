@@ -36,7 +36,7 @@ class UtilAPI:
         self.__HOST = host
         self.__PORT = port
         self.__BASE = f"{self.__HOST}:{self.__PORT}/api"
-        self.__LYRICS_SOURCES = ["ln", "genius"]
+        self.__LYRICS_SOURCES = ["ln", "genius", "al"]
 
     def __api_call(self, endpoint: str, query_params: Dict) -> Dict:
         try:
