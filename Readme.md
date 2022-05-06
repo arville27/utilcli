@@ -4,8 +4,8 @@
 - Poetry
 
 ## Working with project
-- `git clone https://github.com/arville27/utilityapi`
-- `cd utilityapi`
+- `git clone https://github.com/arville27/utilcli`
+- `cd utilcli`
 - `poetry shell`
 - `poetry install`
 
