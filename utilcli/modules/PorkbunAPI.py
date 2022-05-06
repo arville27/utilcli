@@ -1,4 +1,4 @@
-from utilcli.modules import CommandResponse
+from utilcli.modules.CommandResponse import CommandResponse
 from ipaddress import ip_address
 from typing import Dict, List
 from enum import Enum

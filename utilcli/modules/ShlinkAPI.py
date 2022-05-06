@@ -1,4 +1,4 @@
-from utilcli.modules import CommandResponse
+from utilcli.modules.CommandResponse import CommandResponse
 from typing import List, Dict, Tuple
 from urllib.parse import urlparse
 import requests

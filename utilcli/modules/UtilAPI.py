@@ -1,5 +1,5 @@
 from typing import Callable, Dict, List, Optional
-from utilcli.modules import CommandResponse
+from utilcli.modules.CommandResponse import CommandResponse
 import requests
 import json
 
