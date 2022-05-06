@@ -1,8 +1,19 @@
-# Configuration
+# Developing project
+## Requirement
+- Python (`>=3.10`)
+- Poetry
+
+## Working with project
+- `git clone https://github.com/arville27/utilityapi`
+- `cd utilityapi`
+- `poetry shell`
+- `poetry install`
+
+# Configuration file*
 ## Windows 
 * `C:\Users\<user>\AppData\Roaming\utilcli`
 ## Unix
-* `~/.config/foo-bar`
+* `~/.config/utilcli`
 
 ## Configuration template
 ```
